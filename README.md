@@ -1,1 +1,1 @@
-s# JS-lekce-2
+# JS-lekce-2
